@@ -69,15 +69,6 @@ This project demonstrates a secure and smart **digital door lock system** built 
 
 ---
 
-## 📘 Future Improvements
-
-- Add buzzer alerts for wrong attempts.
-- Enable dynamic password change via master mode.
-- Integrate RFID or fingerprint scanner.
-- Add IoT capabilities for remote monitoring.
-
----
-
 ## 📄 Project Report
 
 A detailed project report is available in the attached [PDF file](Digital%20Lock%20with%20Binary%20Code%20Report.pdf), which includes:
@@ -95,3 +86,4 @@ A detailed project report is available in the attached [PDF file](Digital%20Lock
 
 ---
 
+> Developed as a part of the Digital Electronics Lab Project at Daffodil International University.
