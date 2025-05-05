@@ -25,6 +25,7 @@ This project demonstrates a secure and smart **digital door lock system** built 
 | Breadboard        | For assembling the circuit without soldering |
 | Jumper Wires      | For electrical connections |
 | Door Lock & Styrofoam | For creating a model prototype of the locking system |
+| 5V DC Adapter     | Powers Arduino Uno and components externally      |
 
 ---
 
@@ -56,6 +57,11 @@ This project demonstrates a secure and smart **digital door lock system** built 
    - Use Arduino IDE to upload the code to the Nano.
 4. **Enclosure Build**:
    - Components installed in a Styrofoam model for demonstration.
+
+---
+
+## 📷 Connection
+![Screenshot 2025-05-05 114433](https://github.com/user-attachments/assets/398292bd-dc43-493a-a4b6-1c2b5e770e36)
 
 ---
 
